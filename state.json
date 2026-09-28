@@ -106,13 +106,6 @@
     "M|MB7011|26018905",
     "M|MB7011|26056403"
   ],
-  "tg_draft": {
-    "awaiting_movie": true,
-    "chain": "c",
-    "region": "서울",
-    "screen": "ALL",
-    "site_nm": "용산아이파크몰",
-    "site_no": "0013"
-  },
-  "tg_offset": 532118265
+  "tg_draft": {},
+  "tg_offset": 532118273
 }
