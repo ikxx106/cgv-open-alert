@@ -6,6 +6,13 @@
       "screen": "아이맥스",
       "movie_keyword": "오디세이",
       "notify": "schedule"
+    },
+    {
+      "site_no": "0013",
+      "site_nm": "용산아이파크몰",
+      "screen": "ALL",
+      "movie_keyword": "극장판 치이카와",
+      "notify": "schedule"
     }
   ],
   "full_scan_every_runs": 30,
