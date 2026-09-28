@@ -1,13 +1,6 @@
 {
   "targets": [
     {
-      "site_no": "MB4651",
-      "site_nm": "하남스타필드",
-      "screen": "돌비시네마",
-      "movie_keyword": "엔드게임 앙코르",
-      "notify": "schedule"
-    },
-    {
       "site_no": "0013",
       "site_nm": "용산아이파크몰",
       "screen": "ALL",
