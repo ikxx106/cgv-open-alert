@@ -100,12 +100,19 @@
   "initialized": true,
   "last_block_warn": 1788362723.0054746,
   "last_run": "2026-09-03T19:51:37+09:00",
-  "run_no": 35116,
+  "run_no": 35120,
   "seen": [
     "M|0089|30001323",
     "M|MB7011|26018905",
     "M|MB7011|26056403"
   ],
-  "tg_draft": {},
-  "tg_offset": 261177124
+  "tg_draft": {
+    "awaiting_movie": true,
+    "chain": "c",
+    "region": "서울",
+    "screen": "ALL",
+    "site_nm": "용산아이파크몰",
+    "site_no": "0013"
+  },
+  "tg_offset": 532118265
 }
