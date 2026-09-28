@@ -3,8 +3,8 @@
     "0013|ALL|극장판치이카와|schedule",
     "0013|아이맥스|엔드게임앙코르|schedule"
   ],
-  "blocked": false,
-  "blocked_at": "2026-09-29T00:30:36+09:00",
+  "blocked": true,
+  "blocked_at": "2026-09-29T03:35:24+09:00",
   "gates": {
     "0013": {
       "dates": [
@@ -141,7 +141,7 @@
     }
   },
   "initialized": true,
-  "last_block_warn": 1790609436.373891,
+  "last_block_warn": 1790620524.872409,
   "last_run": "2026-09-29T03:30:37+09:00",
   "run_no": 35567,
   "seen": [
