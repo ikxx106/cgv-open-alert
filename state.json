@@ -3,8 +3,8 @@
     "0013|ALL|극장판치이카와|schedule",
     "0013|아이맥스|엔드게임앙코르|schedule"
   ],
-  "blocked": false,
-  "blocked_at": "2026-09-28T20:57:19+09:00",
+  "blocked": true,
+  "blocked_at": "2026-09-28T21:20:29+09:00",
   "gates": {
     "0013": {
       "dates": [
