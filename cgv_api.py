@@ -117,6 +117,10 @@ def _get(path, **params):
                 body = json.loads(raw.decode("utf-8"))
         except urllib.error.HTTPError as exc:
             if exc.code == 403:
+                if attempt < RETRIES - 1:
+                    last = exc
+                    time.sleep(random.uniform(3, 6))
+                    continue
                 raise CloudflareBlocked(
                     "403 Forbidden: " + url + "\n"
                     "Cloudflare가 이 요청을 봇으로 판정했습니다. "
